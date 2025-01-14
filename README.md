@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed error in Python:  incorrect handling of empty lists and non-numeric data within a function. The `bug.py` file shows the initial flawed code, which fails silently in some scenarios.  The `bugSolution.py` file provides a robust solution using exception handling for improved reliability.
